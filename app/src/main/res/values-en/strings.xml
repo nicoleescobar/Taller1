@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Do this</string>
+    <string name="aceptar">Acept</string>
+    <string name="cantidad">Number of bracelets</string>
+    <string name="compañia">XYZ Bracelets</string>
+    <string name="comprar">To buy</string>
+    <string name="dije">Pendant</string>
+    <string name="dolar">Dollar</string>
+    <string name="material">Material</string>
+    <string name="pesos">Pesos</string>
+    <string name="tipo">Type</string>
+    <string name="cuerda">Rope</string>
+    <string name="cuero">cowhide</string>
+    <string name="error_1">You have to type a cant</string>
+    <string name="martillo">Hammer</string>
+    <string name="niquel">Nickel</string>
+    <string name="oro">Gold</string>
+    <string name="ororosado">Golden rose</string>
+    <string name="plata">Silver</string>
+    <string name="ancla">Anchort</string>
+    <string name="retorno_1">Total purchase</string>
+</resources>

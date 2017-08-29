@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Taller1</string>
+    <string name="compañia">Manillas XYZ</string>
+    <string name="comprar">A comprar</string>
+    <string name="dije">Dije</string>
+    <string name="tipo">Tipo</string>
+    <string name="material">Material</string>
+    <string name="pesos">Pesos</string>
+    <string name="dolar">Dolar</string>
+    <string name="cantidad">Numero de Manillas</string>
+    <string name="aceptar">Aceptar</string>
+
+    <string name="error_1">Debe ingresar una cantidad</string>
+    <string name="retorno_1">El valor total por la compra es: </string>
+
+    <string name="cuero">Cuero</string>
+    <string name="cuerda">Cuerda</string>
+    <string-array name="materiales">
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+    <string-array name="dijes">
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+
+    <string name="oro">Oro</string>
+    <string name="ororosado">Oro rosado</string>
+    <string name="niquel">Niquel</string>
+    <string name="plata">Plata</string>
+    <string-array name="tipos">
+        <item>@string/niquel</item>
+        <item>@string/plata</item>
+        <item>@string/oro</item>
+        <item>@string/ororosado</item>
+    </string-array>
+</resources>
