@@ -170,7 +170,7 @@ public class MainActivity extends AppCompatActivity {
 
     public boolean validar(){
 
-        if(cajaCantidad.getText().toString().isEmpty()){
+        if(cajaCantidad.getText().toString().isEmpty() || (Integer.parseInt(cajaCantidad.getText().toString()) == 0 )){
             cajaCantidad.setError(resources.getString(R.string.error_1));
             return false;
         }
